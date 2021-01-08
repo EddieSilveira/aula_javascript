@@ -6,8 +6,8 @@ function hasClick(){
 };
 
 function redirecionar(){
-  window.open("https://www.thegreatcoursesdaily.com/wp-content/uploads/2019/10/header-20.jpg")
-  //window.location.href = "https://www.thegreatcoursesdaily.com/wp-content/uploads/2019/10/header-20.jpg";
+  window.open("https://pt.wikipedia.org/wiki/JavaScript")
+  //window.location.href = "https://pt.wikipedia.org/wiki/JavaScript";
 }
 
 function trocar(elemento){
